@@ -1,0 +1,106 @@
+[{
+    "name": "Shakib Al Hasan",
+    "gender": "Male",
+    "age": " 33 years",
+    "salary": 400000,
+    "birth": "March 24, 1987",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/201.png"
+  }, {
+    "name": "Mushfiqur Rahim",
+    "gender": "Male",
+    "age": "34 years",
+    "salary": 380000,
+    "birth": "Jun 9, 1987",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "name": "Tamim Iqbal",
+    "gender": "Male",
+    "age": "32 years",
+    "salary": 400000,
+    "birth": "Mar 20, 1989",
+    "img": "https://ss.thgim.com/cricket/article27263543.ece/alternates/FREE_380/tamim-iqbaljpg"
+  }, {
+    "name": "Mahmudullah",
+    "gender": "Male",
+    "age": "35 years",
+    "salary": 380000,
+    "birth": "Feb 4, 1986",
+    "img": "https://ss.thgim.com/cricket/article27263938.ece/alternates/FREE_380/mahmudullahjpg"
+  }, {
+    "name": "Liton Das",
+    "gender": "Male",
+    "age": "27 years",
+    "salary": 250000,
+    "birth": "Oct 13, 1994",
+    "img": "https://resources.pulse.icc-cricket.com/players/130x150/1596.png"
+  }, {
+    "name": "Mohammad Mithun",
+    "gender": "Male",
+    "age": "30 years",
+    "salary": 260000,
+    "birth": "Mar 2, 1991",
+    "img": "https://sportstar.thehindu.com/cricket/article27264289.ece/BINARY/mohammad-mithunjpg"
+  }, {
+    "name": "Soumya Sarkar",
+    "gender": "Male",
+    "age": "28 years",
+    "salary": 300000,
+    "birth": "Feb 25, 1993",
+    "img": "https://sportstar.thehindu.com/cricket/article27263858.ece/BINARY/soumya-sarkarjpg"
+  }, {
+    "name": "Afif Hossain",
+    "gender": "Male",
+    "age": "22 years",
+    "salary": 150000,
+    "birth": "Sep 22, 1999",
+    "img": "https://cricclubs.com/documentsRep/profilePics/9a4b698b-0f6f-46e9-9fd8-4433109ac5c4.jpg"
+  }, {
+    "name": "Mustafizur Rahman",
+    "gender": "Male",
+    "age": "26 years",
+    "salary": 350000,
+    "birth": "Sep 6, 1995",
+    "img": "https://sportstar.thehindu.com/cricket/article27264533.ece/BINARY/mustafizur-rahmanjpg"
+  }, {
+    "name": "Taskin Ahmed",
+    "gender": "Male",
+    "age": "26 years",
+    "salary": 320000,
+    "birth": "Apr 3, 1995",
+    "img": "https://i.pinimg.com/originals/62/c2/81/62c281f7ba2f59dd36057f61ba5dfb98.jpg"
+  }, {
+    "name": "Mosaddek Hossain",
+    "gender": "Male",
+    "age": "26 years",
+    "salary": 220000,
+    "birth": "Dec 10, 1995",
+    "img": "https://ss.thgim.com/cricket/article27264377.ece/alternates/FREE_380/mosaddek-hasanjpg"
+  }, {
+    "name": "Mehedi Hasan",
+    "gender": "Male",
+    "age": "24 years",
+    "salary": 300000,
+    "birth": "Oct 25, 1997",
+    "img": "https://sportstar.thehindu.com/cricket/article27264489.ece/BINARY/mehdi-hasanjpg"
+  }, {
+    "name": "Mashrafe Mortaza",
+    "gender": "Male",
+    "age": "37 years",
+    "salary": 380000,
+    "birth": "October 5, 1983",
+    "img": "https://ss.thgim.com/cricket/article27263506.ece/alternates/FREE_380/mashrafe-mortazajpg"
+  }, {
+    "name": "Mohammad Saifuddin",
+    "gender": "Male",
+    "age": "25 years",
+    "salary": 180000,
+    "birth": "Nov 1, 1996",
+    "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+  }, {
+    "name": "Rubel Hossain",
+    "gender": "Male",
+    "age": "31 years",
+    "salary": 100000,
+    "birth": "Jan 1, 1990",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8t1wX059wfc_WcFJ3gOX1TSb5omRmiNJkpA&usqp=CAU"
+  }]

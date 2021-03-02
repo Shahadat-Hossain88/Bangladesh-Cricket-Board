@@ -1,0 +1,41 @@
+.player-container img {
+    height:150px;
+
+}
+.player-container {
+    border:1px solid blue;
+    border-radius:10px;
+    margin:10px;
+    padding:10px;
+    background-color: darkcyan;
+    box-shadow: 5px 5px 5px;
+
+}
+.bootstrap-div{
+    margin: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.bootstrap-player{
+    background-image: linear-gradient(90deg, rgb(11, 11, 54),skyblue);
+    border-radius:10px;
+    margin: auto;
+    margin-left: 500px;
+}
+.bootstrap-player-col{
+    
+    text-align:center;
+    position: relative;
+    margin-right: 40%;
+    color:white;
+    background-image: linear-gradient(90deg, skyblue , rgb(11, 11, 54));
+    
+}
+.bootstrap-player-col img{
+
+    width: 150px;
+    margin: auto;
+    margin-left: 38%;
+    background-color: gray;
+
+}

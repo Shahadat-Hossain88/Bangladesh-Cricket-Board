@@ -1,10 +1,19 @@
 .App {
   text-align: center;
+  
 }
-
+.home{
+  /* background-color: blueviolet; */
+  background-image: linear-gradient(90deg, skyblue,rgb(40, 81, 134));
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.title{
+  text-align: center;
+  text-shadow: 0 3px;
+  background-image: linear-gradient(90deg, skyblue,rgb(40, 81, 134));
 }
 
 @media (prefers-reduced-motion: no-preference) {

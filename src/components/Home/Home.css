@@ -1,0 +1,13 @@
+.home-container{
+    display:flex;
+    background-color: solid seagreen;
+}
+
+.Player-home{
+
+    width:70%
+}
+.selected-player{
+    width: 30%;
+    border: 5px;
+}
