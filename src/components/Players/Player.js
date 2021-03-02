@@ -7,7 +7,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const Player = (props) => {
-
     const { name, img, gender, age, salary, birth } = props.player;
     const handleAddPlayer = props.handleAddPlayer;
 

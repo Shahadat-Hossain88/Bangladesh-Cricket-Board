@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <div className=" title">
-        
       <h1>Bangladesh Cricket  Board</h1>
       </div>
       <div className="home">
