@@ -15,6 +15,8 @@ const SelectedPlayer = (props) => {
         salary = salary +player.salary +" ,";
     }
 
+    
+
     return (
         <div className="selected">
             <h1>SELECT FOR CLUB</h1>
